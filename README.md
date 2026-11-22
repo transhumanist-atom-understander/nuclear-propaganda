@@ -10,6 +10,10 @@ In the '00s, a "nuclear renaissance" seemed to be in the works.
 In the US, [fourteen nuclear reactors were licensed for construction](https://www.nrc.gov/licensing-applications/new-reactor-licensing/large-light-water-reactors/combined-license-holders-for-new-reactors).
 [Only two were built, supported heavily by government loans](https://en.wikipedia.org/w/index.php?title=Vogtle_Electric_Generating_Plant&oldid=1382708962#Units_3_and_4).
 [The Obama administration had planned further support for nuclear power, but this was considered politically difficult after the Fukushima disaster](https://www.bloomberg.com/news/articles/2011-03-14/obama-s-nuclear-power-expansion-plans-set-back-by-japanese-quake-aftermath?leadSource=uverify%20wall).
+
+A "nuclear renaissance" seemed to be in the works in the '00s, with many reactors approved in the US.
+Only two were constructed, supported heavily by government loans.
+The Obama administration had planned further support for nuclear power, but this was considered politically difficult after the Fukushima disaster.
 The most dramatic overreaction to the Fukushima disaster, however, was in Germany, and by now all German nuclear power plants have been shut down.
 
 I expect LessWrong users to know that story.
@@ -22,11 +26,14 @@ This didn't happen.
 But where I hear about gas most often is not with reference to the original wave of nuclear power construction int he '70s and '80s, but the cancellation of the '00s nuclear renaissance.
 At least in the United States, this is often blamed on the fracking revolution.
 
-But was fracking really why they didn't build more nuclear plants?
-Remember I mentioned government loans supporting the two reactors that did get built?
-That was stimulus money.
+Originally, they were limited to a niche role in the grid by the scarcity of the fuel.
+Early investment in nuclear coincided with fears of shortages of natural resources.
+But on the contrary, gas became abundant.
+One factor was offshore drilling.
+In the UK, for example, Margaret Thatcher had planned to start a nuclear power plant a year, but instead of transitioning from coal to nuclear, they became heavily reliant on gas from the North Sea.
+In this story, America's nuclear renaissance was halted by the fracking revolution.
 
-To me, the '08 financial crisis seems to me like a bigger problem for nuclear than fracking.
+I usually hear the end of the US nuclear renaissance as a fracking story, but the '08 financial crisis seems to me like a bigger deal.
 Not primarily because it made nuclear power difficult to finance, but because the economic slowdown stopped electricity demand growth.
 
 Let's consider what might have been.
