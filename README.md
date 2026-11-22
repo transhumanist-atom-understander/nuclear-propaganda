@@ -1,4 +1,4 @@
-There have always been three main challenges to the viability of nuclear power: over-regulation, competition from natural gas, and weak demand growth for power.
+There have always been three main challenges to the viability of nuclear power: over-regulation, competition from natural gas, and stagnant electricity demand.
 It is easy to list them, but hard to rank their importance.
 
 Let's start with over-regulation.
