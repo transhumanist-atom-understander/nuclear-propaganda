@@ -30,7 +30,9 @@ Tesla introduced their first car, the Roadster, in '08.
 The crisis resulted in [a historic dip in the purchase of new cars](https://fred.stlouisfed.org/series/totalsa#), still depressed when Tesla's more affordable models were introduced.
 And Tesla was just the one survivor of the economic carnage.
 If not for the financial crisis, how many electric cars would have been on the road by 2020?
-That kind of thing, I think, is how the financial crisis hit nuclear power right in the finances.
+
+Electric cars are just one kind of electricity-using purchase that wasn't being made after the financial crisis.
+No forecasted electricity demand growth, no business case for big investments in nuclear power.
 
 But stagnant electricity demand also limited the original nuclear buildout of the '70s and '80s.
 You can see it most clearly in France.
