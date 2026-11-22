@@ -17,22 +17,18 @@ I'm going to tell two others.
 
 As nuclear developed, it also faced increasing competition from natural gas plants.
 Unlike nuclear or coal plants, natural gas turbines are cheap to construct.
-Early investment in nuclear coincided with fears of shortages of natural resources ([1970](https://www.nytimes.com/1970/11/29/archives/nuclear-power-arrives-again-utilities-1970-orders-of-aplants-soar.html): "Let’s face it, electric utilities are now faced with gas that will become absolutely unavailable in the long term").
+Early investment in nuclear coincided with fears of shortages of natural resources ([a nuclear exec in 1970](https://www.nytimes.com/1970/11/29/archives/nuclear-power-arrives-again-utilities-1970-orders-of-aplants-soar.html): "Let’s face it, electric utilities are now faced with gas that will become absolutely unavailable in the long term").
 This didn't happen.
+
 But where I hear about gas most often is not with reference to the original wave of nuclear power construction in the '70s and '80s, but the cancellation of the '00s nuclear renaissance.
 At least in the United States, this is often blamed on the fracking revolution (for example, in [The Economist](https://www.economist.com/united-states/2013/06/01/fracked-off)).
 
-But to me, the '08 financial crisis seems like a bigger problem for nuclear than fracking.
+But to me, the '08 financial crisis seems like it hit harder than abundant natural gas.
 Not primarily because it made nuclear power difficult to finance, but because the economic slowdown stopped electricity demand growth.
-
-Let's consider what might have been.
-Tesla introduced their first car, the Roadster, in '08.
-The crisis resulted in [a historic dip in the purchase of new cars](https://fred.stlouisfed.org/series/totalsa), still depressed when Tesla's more affordable models were introduced.
-And Tesla was just the one survivor of the economic carnage.
-If not for the financial crisis, how many electric cars would have been on the road by 2020?
-
-Electric cars are just one kind of electricity-using purchase that wasn't being made after the financial crisis.
-No forecasted electricity demand growth, no business case for big investments in nuclear power.
+Not that US generation had been growing quickly before that, but [after '08 it was flat](https://ourworldindata.org/grapher/electricity-mix?tab=line&country=%7EUSA&source=total&metric=generation&frequency=annual).
+To imagine what might have been, consider that Tesla's first car was introduced in '08, the beginning of [a historic dip in car purchases](https://fred.stlouisfed.org/series/totalsa).
+Nobody buying electric cars or electricity-using appliances, no electricity demand growth.
+No forecasted demand growth, no business case for nuclear power.
 
 But stagnant electricity demand also limited the original nuclear buildout of the '70s and '80s.
 You can see it most clearly in France.
