@@ -10,7 +10,7 @@ In the '00s, a "nuclear renaissance" seemed to be in the works.
 In the US, [fourteen nuclear reactors were licensed for construction](https://www.nrc.gov/licensing-applications/new-reactor-licensing/large-light-water-reactors/combined-license-holders-for-new-reactors).
 [Only two were built, supported heavily by government loans](https://en.wikipedia.org/w/index.php?title=Vogtle_Electric_Generating_Plant&oldid=1382708962#Units_3_and_4).
 [The Obama administration had planned further support for nuclear power, but this was considered politically difficult after the Fukushima disaster](https://www.bloomberg.com/news/articles/2011-03-14/obama-s-nuclear-power-expansion-plans-set-back-by-japanese-quake-aftermath).
-The most dramatic overreaction to the Fukushima disaster, however, was in Germany, and by now all German nuclear power plants have been shut down.
+The worst overreaction to the Fukushima disaster, however, was in Germany, and by now all German nuclear power plants have been shut down.
 
 I expect LessWrong users to know that story.
 I'm going to tell two others.
