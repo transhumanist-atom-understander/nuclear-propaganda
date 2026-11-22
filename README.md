@@ -1,5 +1,5 @@
 There have always been three main challenges to the viability of nuclear power: overregulation, competition from natural gas, and weak demand growth for power.
-It is easy to say that, but hard to rank their importance.
+It is easy to list them, but hard to rank their importance.
 
 Let's start with overregulation.
 The poster child of nuclear overregulation was the US standard that radiation should be "as low as reasonably achievable" (ALARA), which might sound nice but [was bad](https://www.lesswrong.com/s/cuwFMDLAKguxmGkGY/p/ThvvCE2HsLohJYd7b#ALARA).
@@ -39,8 +39,8 @@ You can see it most clearly in France.
 There is no mystery as to why the French stopped constructing nuclear reactors: they were not fully using the ones they had.
 [In 1988 they were running at 61% of full capacity, on average](https://www.fundinguniverse.com/company-histories/electricit%C3%A9-de-france-history/).
 
-The three main factors limiting the development of nuclear power have been overregulation, competition with natural gas, and stagnant demand.
-It's easy to list them, hard to rank them.
+Those are our three stories: overregulation, competition with natural gas, and stagnant demand.
+As I said, easy to list, hard to rank.
 
 In the tech enthusiast blogosphere, I hear mainly about overregulation.
 I read about the others from Vaclav Smil, or articles in mainstream publications.
