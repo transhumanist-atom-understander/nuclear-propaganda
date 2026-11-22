@@ -43,7 +43,7 @@ I read about the others from Vaclav Smil, or articles in mainstream publications
 
 The dreams of the atomic space age: electricity too cheap to meter, desalination making the deserts bloom.
 The story in the tech enthusiast blogosphere is that these dreams could have come true.
-_Would_ have come true, had it not been for the anti-nuclear movement.
+Would have come true, had it not been for the anti-nuclear movement.
 
 Well, maybe so.
 But maybe not.
