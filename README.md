@@ -1,8 +1,8 @@
-There have always been three main challenges to the viability of nuclear power: overregulation, competition from natural gas, and weak demand growth for power.
+There have always been three main challenges to the viability of nuclear power: over-regulation, competition from natural gas, and weak demand growth for power.
 It is easy to list them, but hard to rank their importance.
 
-Let's start with overregulation.
-The poster child of nuclear overregulation was the US standard that radiation should be "as low as reasonably achievable" (ALARA), which might sound nice but [was bad](https://www.lesswrong.com/s/cuwFMDLAKguxmGkGY/p/ThvvCE2HsLohJYd7b#ALARA).
+Let's start with over-regulation.
+The poster child of nuclear over-regulation was the US standard that radiation should be "as low as reasonably achievable" (ALARA), which might sound nice but [was bad](https://www.lesswrong.com/s/cuwFMDLAKguxmGkGY/p/ThvvCE2HsLohJYd7b#ALARA).
 Perhaps more important than such standards, which are at least predictable, was local interference with construction.
 As a dramatic example, [a nuclear plant was fully completed on Long Island but never started due to local opposition](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant).
 
@@ -39,10 +39,10 @@ You can see it most clearly in France.
 There is no mystery as to why the French stopped constructing nuclear reactors: they were not fully using the ones they had.
 [In 1988 they were running at 61% of full capacity, on average](https://www.fundinguniverse.com/company-histories/electricit%C3%A9-de-france-history/).
 
-Those are our three stories: overregulation, competition with natural gas, and stagnant demand.
+Those are our three stories: over-regulation, competition with natural gas, and stagnant demand.
 As I said, easy to list, hard to rank.
 
-In the tech enthusiast blogosphere, I hear mainly about overregulation.
+In the tech enthusiast blogosphere, I hear mainly about over-regulation.
 I read about the others from Vaclav Smil, or articles in mainstream publications.
 
 The dreams of the atomic space age: electricity too cheap to meter, desalination making the deserts bloom.
@@ -51,4 +51,4 @@ _Would_ have come true, had it not been for the anti-nuclear movement.
 
 Well, maybe so.
 But maybe not.
-It depends on the relative importance of overregulation, competition with natural gas, and stagnant electricity demand.
+It depends on the relative importance of over-regulation, competition with natural gas, and stagnant electricity demand.
