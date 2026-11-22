@@ -23,7 +23,7 @@ This didn't happen.
 But where I hear about gas most often is not with reference to the original wave of nuclear power construction in the '70s and '80s, but the cancellation of the '00s nuclear renaissance.
 At least in the United States, this is often blamed on the fracking revolution (for example, in [The Economist](https://www.economist.com/united-states/2013/06/01/fracked-off)).
 
-But to me, it seems like '08 financial crisis hit harder than abundant natural gas.
+But to me, it seems like the '08 financial crisis hit harder than abundant natural gas.
 Not primarily because it made nuclear power difficult to finance, but because the economic slowdown stopped electricity demand growth.
 Not that US generation had been growing quickly before that, but [after '08 it was flat](https://ourworldindata.org/grapher/electricity-mix?tab=line&country=%7EUSA&source=total&metric=generation&frequency=annual).
 To imagine what might have been, consider that Tesla's first car was introduced in '08, the beginning of [a historic dip in car purchases](https://fred.stlouisfed.org/series/totalsa).
