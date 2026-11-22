@@ -40,7 +40,7 @@ Those are our three stories: over-regulation, competition with natural gas, and 
 As I said, easy to list, hard to rank.
 
 In the tech enthusiast blogosphere, I hear mainly about over-regulation.
-I read about the others from Vaclav Smil, or articles in mainstream publications.
+I read about the others from [Vaclav Smil](https://www.google.com/books/edition/Invention_and_Innovation/yJZuEAAAQBAJ?hl=en), or articles in mainstream publications.
 
 The dreams of the atomic space age: electricity too cheap to meter, desalination making the deserts bloom.
 The story in the tech enthusiast blogosphere is that these dreams could have come true.
