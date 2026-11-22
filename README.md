@@ -1,43 +1,49 @@
-When I was young I knew I didn't want to be a political ideologue like my parents.
-But it seemed to me that that's just what adults were like, and I was protected only by my innocence.
-I _had not yet_ acquired an ideology.
-Just as I was already beginning to make myself ridiculous acting on newly acquired sexual urges, perhaps becoming overconfident of grand narratives was just part of growing up?
-
-I did in fact acquire an ideology, more or less what you would expect given that I am posting on LessWrong.
-Yet, my fears have not materialized in this sense: I do not believe my group's mythology.
-
-For example: what _would have happened_ if nuclear power had not been so firmly opposed?
-
-Many of my ideology-mates think they know the answer: the atomic space age futurist dreams would have come true.
-I don't know the answer.
-
-I was born not knowing the answer, but far from protecting my innocence, I have read a lot about the issue and been caught up in one narrative after another.
-I've learned that there have always been three main challenges to the viability of nuclear power: overregulation, competition from natural gas, and weak demand growth for power.
+There have always been three main challenges to the viability of nuclear power: overregulation, competition from natural gas, and weak demand growth for power.
 It is easy to say that, but hard to rank their importance.
 
-Consider natural gas.
+Let's start with overregulation.
+Rather than a standard based on the health effects of radiation, nuclear power is held to the standard that radiation should be "as low as reasonably achievable" (ALARA).
+Perhaps more important than such standards, which are at least predictable, is local interference with construction.
+As a dramatic example, a fully completed nuclear plant in Long Island was demolished before startup.
+That was after the Three Mile Island accident, around the end of the first wave of nuclear construction in the US.
+
+A "nuclear rennaissance" seemed to be in the works in the '00s, with many reactors approved in the US.
+Only two were constructed, supported heavily by government loans.
+The Obama administration had planned further support for nuclear power, but this was considered politically difficult after the Fukushima disaster.
+The most dramatic overreaction to the Fukushima disaster, however, was in Germany, and by now all German nuclear power plants have been shut down.
+
+I expect LessWrong users to know that story.
+I'm going to tell two others.
+
+As nuclear developed, it also faced increasing competition from natural gas plants.
+Unlike nuclear or coal plants, natural gas turbines are cheap to construct.
+Originally, they were limited to a niche role in the grid by the scarcity of the fuel.
 Early investment in nuclear coincided with fears of shortages of natural resources.
-But in the '80s, gas became abundant from offshore drilling.
-In the UK, for example, Margaret Thatcher had planned to start a nuclear power plant a year, but instead of transitioning from coal to nuclear, the UK transitioned from coal to gas.
-In the '00s in the US, many nuclear plants were approved as part of a planned "nuclear rennaissance", only for the financial case to be destroyed by fracking.
+But on the contrary, gas became abundant.
+One factor was off-shore drilling.
+In the UK, for example, Margaret Thatcher had planned to start a nuclear power plant a year, but instead of transitioning from coal to nuclear, they became heavily reliant on gas from the Nroth Sea.
+In this story, America's nuclear rennaissance was halted by the fracking revolution.
 
-Was it destroyed by fracking?
-What about the '08 financial crisis not only cutting off financing, but halting electricity demand growth?
-Imagine a world where the introduction of Tesla's first car was in a booming economy, not a historic low in new car purchases.
+Was fracking really why they didn't build more nuclear plants?
+Remember I mentioned government loans supporting two reactor that did get built?
+That was stimulus money.
 
-So was it gas, was it stagnant demand... wait, did I really just tell the story of the failed '00s nuclear rennaissance without mentioning Fukushima?
+I usually hear the end of the US nuclear rennaissance as a fracking story, but the '08 financial crisis seems to me like a bigger deal.
+Not primarily because it made nuclear power difficult to finance, but because the economic slowdown stopped electricity demand growth.
+Let's consider what might have been.
+Tesla introduced the Roadster in '08, right as we entered a historic dip in the purchase of new cars.
 
-This is what I mean by getting caught up in one narrative after another.
+But stagnant electricity demand also limited the original nuclear buildout of the '70s and '80s.
+You can see it most clearly in France.
+There is no mystery as to why the French stopped constructing nuclear reactors: they were not fully using the ones they had.
 
-What would have happened had it not been for the anti-nuclear movement?
-Maybe once in a state of epistemic innocence I could have said: nuclear-powered desalination making deserts bloom, or maybe nothing, who knows.
-Now, I can say, it depends.
-It depends on the relative importance of the three main factors.
+The three main factors limiting the development of nuclear power have been overregulation, competition with natural gas, and stagnant demand.
+It's easy to list them, hard to rank them.
 
-I'll add that on LessWrong and the associated blogosphere, overregulation is just about the only explanation I hear about.
-But when I read quotes from nuclear execs, or read a Vaclav Smil book, gas and stagnant demand are more emphasized.
-I don't think this can be justified by the facts.
-Instead, I think part of my ideology's mythology is that the atomic space age would have happened, but was stopped by its political opponents.
+In the tech enthusiast blogosphere, I hear mainly about overregulation.
+I hear about the others from Vaclav Smil, or articles in mainstream publications.
 
-The reason I'm not a believer is just because I'm familiarize myself with a few different ways the world could work which have different implications about this question.
-It is because I am open to such narratives, enjoy them even, that I am not overconfident in the implications of any one narrative, where it conflicts with the others.
+What I often hear in the blogosphere is that the atomic space age dreams could have come true, _would_ have come true, had it not been for the anti-nuclear movement.
+Electricity too cheap to meter, desalination making the deserts bloom.
+Maybe so, but maybe not.
+It depends on the relative importance of overregulation, competition with natural gas, and stagnant demand.
