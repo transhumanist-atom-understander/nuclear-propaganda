@@ -4,16 +4,12 @@ It is easy to say that, but hard to rank their importance.
 Let's start with overregulation.
 The poster child of nuclear overregulation was the US standard that radiation should be "as low as reasonably achievable" (ALARA), which might sound nice but [was bad](https://www.lesswrong.com/s/cuwFMDLAKguxmGkGY/p/ThvvCE2HsLohJYd7b#ALARA).
 Perhaps more important than such standards, which are at least predictable, was local interference with construction.
-As a dramatic example, [a nuclear plant was fully completed in Long Island but never started due to local opposition](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant).
+As a dramatic example, [a nuclear plant was fully completed on Long Island but never started due to local opposition](https://en.wikipedia.org/wiki/Shoreham_Nuclear_Power_Plant).
 
 In the '00s, a "nuclear renaissance" seemed to be in the works.
 In the US, [fourteen nuclear reactors were licensed for construction](https://www.nrc.gov/licensing-applications/new-reactor-licensing/large-light-water-reactors/combined-license-holders-for-new-reactors).
 [Only two were built, supported heavily by government loans](https://en.wikipedia.org/w/index.php?title=Vogtle_Electric_Generating_Plant&oldid=1382708962#Units_3_and_4).
 [The Obama administration had planned further support for nuclear power, but this was considered politically difficult after the Fukushima disaster](https://www.bloomberg.com/news/articles/2011-03-14/obama-s-nuclear-power-expansion-plans-set-back-by-japanese-quake-aftermath?leadSource=uverify%20wall).
-
-A "nuclear renaissance" seemed to be in the works in the '00s, with many reactors approved in the US.
-Only two were constructed, supported heavily by government loans.
-The Obama administration had planned further support for nuclear power, but this was considered politically difficult after the Fukushima disaster.
 The most dramatic overreaction to the Fukushima disaster, however, was in Germany, and by now all German nuclear power plants have been shut down.
 
 I expect LessWrong users to know that story.
@@ -23,17 +19,14 @@ As nuclear developed, it also faced increasing competition from natural gas plan
 Unlike nuclear or coal plants, natural gas turbines are cheap to construct.
 Early investment in nuclear coincided with fears of shortages of natural resources ([1970](https://www.nytimes.com/1970/11/29/archives/nuclear-power-arrives-again-utilities-1970-orders-of-aplants-soar.html): "Let’s face it, electric utilities are now faced with gas that will become absolutely unavailable in the long term").
 This didn't happen.
-But where I hear about gas most often is not with reference to the original wave of nuclear power construction int he '70s and '80s, but the cancellation of the '00s nuclear renaissance.
+But where I hear about gas most often is not with reference to the original wave of nuclear power construction in the '70s and '80s, but the cancellation of the '00s nuclear renaissance.
 At least in the United States, this is often blamed on the fracking revolution.
 
-Originally, they were limited to a niche role in the grid by the scarcity of the fuel.
-Early investment in nuclear coincided with fears of shortages of natural resources.
-But on the contrary, gas became abundant.
-One factor was offshore drilling.
-In the UK, for example, Margaret Thatcher had planned to start a nuclear power plant a year, but instead of transitioning from coal to nuclear, they became heavily reliant on gas from the North Sea.
-In this story, America's nuclear renaissance was halted by the fracking revolution.
+But was fracking really why they didn't build more nuclear plants?
+Remember I mentioned government loans supporting the two reactors that did get built?
+That was stimulus money.
 
-I usually hear the end of the US nuclear renaissance as a fracking story, but the '08 financial crisis seems to me like a bigger deal.
+To me, the '08 financial crisis seems like a bigger problem for nuclear than fracking.
 Not primarily because it made nuclear power difficult to finance, but because the economic slowdown stopped electricity demand growth.
 
 Let's consider what might have been.
