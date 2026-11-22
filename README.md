@@ -20,13 +20,9 @@ Unlike nuclear or coal plants, natural gas turbines are cheap to construct.
 Early investment in nuclear coincided with fears of shortages of natural resources ([1970](https://www.nytimes.com/1970/11/29/archives/nuclear-power-arrives-again-utilities-1970-orders-of-aplants-soar.html): "Let’s face it, electric utilities are now faced with gas that will become absolutely unavailable in the long term").
 This didn't happen.
 But where I hear about gas most often is not with reference to the original wave of nuclear power construction in the '70s and '80s, but the cancellation of the '00s nuclear renaissance.
-At least in the United States, this is often blamed on the fracking revolution.
+At least in the United States, this is often blamed on the fracking revolution (for example, in [The Economist](https://www.economist.com/united-states/2013/06/01/fracked-off)).
 
-But was fracking really why they didn't build more nuclear plants?
-Remember I mentioned government loans supporting the two reactors that did get built?
-That was stimulus money.
-
-To me, the '08 financial crisis seems like a bigger problem for nuclear than fracking.
+But to me, the '08 financial crisis seems like a bigger problem for nuclear than fracking.
 Not primarily because it made nuclear power difficult to finance, but because the economic slowdown stopped electricity demand growth.
 
 Let's consider what might have been.
